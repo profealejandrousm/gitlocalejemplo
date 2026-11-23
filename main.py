@@ -1,3 +1,4 @@
+from otro import VARIABLE
 print("Hola mundo git")
 
 lista=[2,3,4,5,6,78,7,5,56,3,3,443]
@@ -12,3 +13,4 @@ print("Fin del archivo")
 
 print("Esta es mi rama profe")
 print("Porque no quiero dejar la escoba")
+print("Esta es la variable", VARIABLE)
