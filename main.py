@@ -7,3 +7,5 @@ for n in lista:
         print("Es mayor o igual que 50")
     else:
         print("Es menor que 50")
+
+print("Fin del archivo")
