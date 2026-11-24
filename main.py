@@ -1,4 +1,8 @@
 from otro import VARIABLE
+from archivodelphillip import saludar
+from filecaleb import sumar
+from filejoaquin import fun
+
 print("Hola mundo git")
 
 lista=[2,3,4,5,6,78,7,5,56,3,3,443]
@@ -14,3 +18,7 @@ print("Fin del archivo")
 print("Esta es mi rama profe")
 print("Porque no quiero dejar la escoba")
 print("Esta es la variable", VARIABLE)
+
+print(saludar())
+print(sumar())
+print(fun(true))
